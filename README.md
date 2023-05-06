@@ -13,8 +13,8 @@ QR Code component utilizando HTML e CSS.
 
 ## Link de acesso
 
-<a href="https://udanielnogueira.github.io/contador-js/" target="_blank">QR Code component</a>
+<a href="https://udanielnogueira.github.io/qr-code-component/" target="_blank">QR Code component</a>
 
 ## Link do desafio
 
-<a href="https://udanielnogueira.github.io/contador-js/" target="_blank">Desafio QR Code component</a>
+<a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H" target="_blank">Desafio QR Code component</a>
