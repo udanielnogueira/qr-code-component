@@ -1,6 +1,6 @@
 # qr-code-component
 
-QR Code component utilizando HTML e CSS.
+QR code component utilizando HTML e CSS.
 
 ## Preview
 
