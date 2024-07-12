@@ -28,36 +28,31 @@ body {
     background-color: var(--light-gray);
 }
 
-.component {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: var(--white);
+.qr-code-component {
+    width: 30rem;
     padding: 1.7rem;
     border-radius: 2rem;
     flex-direction: column;
+    background-color: var(--white);
+    display: flex;
     gap: 2rem;
 }
 
-.component img {
+.qr-code-component__image {
     border-radius: 1rem;
-    width: 27rem;
 }
 
-.p1 p {
-    font-size: 2.1rem;
+.qr-code-component__title {
     font-weight: 700;
+    font-size: 2.1rem;
     text-align: center;
     color: var(--dark-blue);
 }
 
-.p2 p {
+.qr-code-component__text {
     font-size: 1.5rem;
-    font-weight: 400;
     text-align: center;
+    margin-bottom: 1.7rem;
     color: var(--rayish-blue);
-}
-
-.p2 {
-    margin-bottom: 2rem;
+    padding: 0 1rem;
 }
