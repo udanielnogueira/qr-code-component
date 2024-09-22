@@ -4,7 +4,7 @@ QR code component utilizando HTML e CSS.
 
 ## Preview
 
-![Preview do projeto](img/qr-code-component-preview.png "QR Code component preview")
+![Preview do projeto](assets/img/qr-code-component-preview.png "QR Code component preview")
 
 ## Tecnologias
 
