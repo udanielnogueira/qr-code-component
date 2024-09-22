@@ -13,7 +13,7 @@ QR code component utilizando HTML e CSS.
 
 ## Informações
 
-- Uso do padrão BEM de CSS
+Uso do padrão BEM de CSS
 
 ## Link de acesso
 
