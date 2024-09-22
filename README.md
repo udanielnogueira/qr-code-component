@@ -8,8 +8,8 @@ QR code component utilizando HTML e CSS.
 
 ## Tecnologias
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Informações
 
