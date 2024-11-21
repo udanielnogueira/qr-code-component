@@ -1,4 +1,4 @@
-# qr-code-component
+# QR Code Component
 
 QR code component utilizando HTML e CSS.
 
